@@ -82,8 +82,7 @@ I'm a passionate **Android Developer** with expertise in building high-performan
 ### 🌟 Let's Connect
 I'm always open to collaborating on exciting Android projects, discussing best practices, or helping with Android development challenges.
 
-- 📧 **Email**: [Your Email]
-- 💼 **LinkedIn**: [Your LinkedIn]
+- 📧 **Email**: thilakshetty21@gmail.com
 - 🐙 **GitHub**: [@Tilak-Shetty](https://github.com/Tilak-Shetty)
 
 ---
